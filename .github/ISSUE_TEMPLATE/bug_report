@@ -1,0 +1,19 @@
+---
+name: Bug report
+about: Something does not work as expected
+labels: bug
+---
+
+**Windows version** (e.g. Windows 11 23H2, build number from `winver`):
+
+**What happened / what did you expect?**
+
+**Steps to reproduce**
+
+**Log file** — please paste the contents of
+`%LocalAppData%\DesktopToggler\log.txt` (it only contains the app's own events:
+no keystrokes, no file names).
+
+```
+paste here
+```
